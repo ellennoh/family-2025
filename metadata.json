@@ -1,0 +1,7 @@
+{
+  "name": "Family Review 2025",
+  "description": "An interactive web application for families to reflect on their year together, inspired by a vibrant memory-tracking layout. Uses AI to summarize the year, generate soundtracks, and curate memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
